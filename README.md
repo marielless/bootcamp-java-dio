@@ -1,2 +1,7 @@
 # 🚀 Bootcamp Java DIO
-Aprendendo linguagem Java
+
+Aprendendo linguagem Java:
+
+- Classes;
+- Metodos;
+- Tipos de variaveis;

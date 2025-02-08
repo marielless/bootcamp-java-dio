@@ -1,3 +1,4 @@
+//Classe
 public class MinhaClasse {
 
     public static void main(String[] args) {
@@ -10,6 +11,7 @@ public class MinhaClasse {
         System.out.println(nomeCompleto);
     }
 
+    // Metodo
     public static String nomeCompleto(String primeiroNome, String segundoNome) {
 
         return "Resultado do método " + primeiroNome.concat(" ").concat(segundoNome);
