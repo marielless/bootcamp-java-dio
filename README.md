@@ -1,7 +1,15 @@
 # 🚀 Bootcamp Java DIO
 
-Aprendendo linguagem Java:
+Este repositório contém anotações e práticas realizadas durante o Bootcamp de Java da DIO.
 
-- Classes;
-- Metodos;
+# 📌 Conceitos abordados
+
+# Sintaxe Básica:
+
+- Estrutura de Classes e Métodos,
 - Tipos de variaveis;
+- Operadores,
+- Escopo,
+- Palavras Reservadas, 
+- Java doc
+- Terminal e Argumentos
