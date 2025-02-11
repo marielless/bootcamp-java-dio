@@ -2,7 +2,6 @@ public class BoletimEstudantil {
     public static void main(String[] args) {
         int nota = 8;
 
-        // Estruturas condicionais
         if (nota >= 7)
             System.out.println("APROVADO");
 
