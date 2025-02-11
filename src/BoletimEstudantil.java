@@ -1,14 +1,16 @@
 public class BoletimEstudantil {
     public static void main(String[] args) {
-        int mediaFinal = 6;
+        int nota = 8;
 
         // Estruturas condicionais
-        if (mediaFinal < 6)
-            System.out.println("REPROVADO");
-        else if (mediaFinal == 6)
-            System.out.println("PROVA MINERVA");
-        else
+        if (nota >= 7)
             System.out.println("APROVADO");
+
+        else if (nota >= 5 && nota < 7)
+            System.out.println("PROVA RECUPERAÇÃO");
+
+        else
+            System.out.println("REPROVADO");
 
     }
 }
